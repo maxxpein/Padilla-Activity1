@@ -1,0 +1,78 @@
+[
+    {
+        "name": {
+            "firstName": "Marinel",
+            "lastName": "Padilla"
+        },
+        "age": 23,
+        "address": {
+            "City": "Koronadal",
+            "Province": "South Cotabato",
+            "Country": "Philippines"
+        },
+        "contactNumber": "09074591691",
+        "friendList": [
+            {
+                "name": {
+                    "firstName": "Jerzeil Pete",
+                    "lastName": "Lira"
+                },
+                "age": 23,
+                "address": {
+                    "Town": "Buntatala Jaro",
+                    "Province": "Iloilo",
+                    "Country": "Philippines"
+                },
+                "likes": "Game(sports or egames)",
+                "dislikes": "lose streak",
+                "feeling": "bored"
+            }, 
+            {
+                "name": {
+                    "firstName": "Micah Angela",
+                    "lastName": "Chua"
+                },
+                "age": 23,
+                "address": {
+                    "Town": "Zarraga",
+                    "Province": "Iloilo",
+                    "Country": "Philippines"
+                },
+                "likes": "Gadgets, discovering new mobile apps",
+                "dislikes": "Budgeting, ants",
+                "feeling": "Blessed but scared"
+            },
+            {
+                "name": {
+                    "firstName": "Stephen John",
+                    "lastName": "Siva"
+                },
+                "age": 23,
+                "address": {
+                    "Town": "133b Old Railroad, Jaro",
+                    "Province": "Iloilo",
+                    "Country": "Philippines"
+                },
+                "likes": "Movie Series",
+                "dislikes": "Horror Genres",
+                "feeling": "Galit sa lahat"
+            },
+            {
+                "name": {
+                    "firstName": "Steven",
+                    "lastName": "Absalon"
+                },
+                "age": 23,
+                "address": {
+                    "Town": "Boracay",
+                    "Province": "Aklan",
+                    "Country": "Philippines"
+                },
+                "likes": "Foods",
+                "dislikes": "Fish",
+                "feeling": "Hungry"
+            }
+        ]
+    }
+]
+
